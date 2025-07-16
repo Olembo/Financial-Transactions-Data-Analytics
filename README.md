@@ -106,21 +106,18 @@ Define clear business rules to manage large transactions.
 ---
 
 ## Files Included
-- 01_explore_transactions
-- 02_explore_accounts
-- 03_explore_customers
-- 04_data_cleaning
-- 05_Exploratory_Data_Analysis_(EDA)
-- create_table
-- insert_financial_data
-- Financial_Data_Issues_Log.xlsx
-- EDA_Output.xlsx
+- `01_explore_transactions.sql`
+- `02_explore_accounts.sql`
+- `03_explore_customers.sql`
+- `04_data_cleaning.sql`
+- `05_Exploratory_Data_Analysis_(EDA).sql`
+- `create_table.sql`
+- `insert_financial_data.sql`
 - Cleaned_Data_View (MySQL View)
 - Tableau .twbx file (in progress)
 - Report.pdf
 - `Financial_Data_Issues_Log.xlsx`
 - `EDA_Output.xlsx`
-- `Cleaned_Data_View` (MySQL View)
 - Tableau `.twbx` file (in progress)
 
 ---
